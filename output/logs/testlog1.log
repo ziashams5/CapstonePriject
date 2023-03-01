@@ -1,0 +1,112 @@
+2023-02-20 09:51:19,565 [main] INFO logger File - User is on retail website
+2023-02-20 09:51:19,729 [main] INFO logger File - User searched for Pokemon item
+2023-02-20 09:51:19,837 [main] INFO logger File - Product is displayed
+2023-02-20 10:49:46,601 [main] INFO logger File - User is on retail website
+2023-02-20 10:49:46,780 [main] INFO logger File - User searched for Pokemon item
+2023-02-20 10:49:47,241 [main] INFO logger File - Product is displayed
+2023-02-20 11:58:13,194 [main] INFO logger File - User is on retail website
+2023-02-20 11:58:13,405 [main] INFO logger File - User searched for Pokemon item
+2023-02-20 11:58:13,753 [main] INFO logger File - Product is displayed
+2023-02-20 17:56:33,299 [main] INFO logger File - User is on retail website
+2023-02-20 17:56:33,453 [main] INFO logger File - user clicked on Sign in Option
+2023-02-20 17:56:33,687 [main] INFO logger File - user entered email and password
+2023-02-20 18:00:35,819 [main] INFO logger File - User is on retail website
+2023-02-20 18:00:35,929 [main] INFO logger File - user clicked on Sign in Option
+2023-02-20 18:00:36,130 [main] INFO logger File - user entered email and password
+2023-02-20 18:00:36,202 [main] INFO logger File - user clicked on login button
+2023-02-20 18:00:36,738 [main] INFO logger File - user is logged in into Account
+2023-02-20 18:34:25,721 [main] INFO logger File - User is on retail website
+2023-02-20 18:34:25,836 [main] INFO logger File - user clicked on Sign in Option
+2023-02-20 18:34:26,055 [main] INFO logger File - user entered email and password
+2023-02-20 18:34:26,136 [main] INFO logger File - user clicked on login button
+2023-02-20 18:34:26,402 [main] INFO logger File - user is logged in into Account
+2023-02-20 18:34:26,490 [main] INFO logger File - User clicked on Logout option
+2023-02-21 11:46:56,490 [main] INFO logger File - User is on retail website
+2023-02-21 11:46:56,595 [main] INFO logger File - user clicked on Sign in Option
+2023-02-21 11:46:56,825 [main] INFO logger File - user entered email and password
+2023-02-21 11:46:56,900 [main] INFO logger File - user clicked on login button
+2023-02-21 11:46:57,147 [main] INFO logger File - user is logged in into Account
+2023-02-21 23:51:01,635 [main] INFO logger File - User is on retail website
+2023-02-21 23:51:01,728 [main] INFO logger File - User clicked on sign in option
+2023-02-21 23:51:01,815 [main] INFO logger File - User cliked on Create New Account option
+2023-02-22 09:09:03,442 [main] INFO logger File - User is on retail website
+2023-02-22 09:09:03,559 [main] INFO logger File - User clicked on sign in option
+2023-02-22 09:09:03,640 [main] INFO logger File - User cliked on Create New Account option
+2023-02-22 10:34:20,436 [main] INFO logger File - User is on retail website
+2023-02-22 10:34:20,548 [main] INFO logger File - user clicked on Sign in Option
+2023-02-22 10:34:20,621 [main] INFO logger File - User cliked on Create New Account option
+2023-02-22 13:46:51,971 [main] INFO logger File - User is on retail website
+2023-02-22 13:46:52,094 [main] INFO logger File - user clicked on Sign in Option
+2023-02-22 13:46:52,176 [main] INFO logger File - User cliked on Create New Account option
+2023-02-22 14:01:42,528 [main] INFO logger File - User is on retail website
+2023-02-22 14:01:42,624 [main] INFO logger File - user clicked on Sign in Option
+2023-02-22 14:01:42,697 [main] INFO logger File - User cliked on Create New Account option
+2023-02-22 14:01:43,070 [main] INFO logger File - User fill up information form
+2023-02-22 14:03:18,752 [main] INFO logger File - User is on retail website
+2023-02-22 14:03:18,864 [main] INFO logger File - user clicked on Sign in Option
+2023-02-22 14:03:18,938 [main] INFO logger File - User cliked on Create New Account option
+2023-02-22 14:03:19,316 [main] INFO logger File - User fill up information form
+2023-02-22 14:04:30,467 [main] INFO logger File - User is on retail website
+2023-02-22 14:04:30,566 [main] INFO logger File - user clicked on Sign in Option
+2023-02-22 14:04:30,639 [main] INFO logger File - User cliked on Create New Account option
+2023-02-22 14:04:30,985 [main] INFO logger File - User fill up information form
+2023-02-22 14:08:29,048 [main] INFO logger File - User is on retail website
+2023-02-22 14:08:29,153 [main] INFO logger File - user clicked on Sign in Option
+2023-02-22 14:08:29,225 [main] INFO logger File - User cliked on Create New Account option
+2023-02-22 14:08:29,581 [main] INFO logger File - User fill up information form
+2023-02-22 14:12:15,817 [main] INFO logger File - User is on retail website
+2023-02-22 14:12:16,014 [main] INFO logger File - user clicked on Sign in Option
+2023-02-22 14:12:16,092 [main] INFO logger File - User cliked on Create New Account option
+2023-02-22 14:12:16,438 [main] INFO logger File - User fill up information form
+2023-02-22 14:12:16,532 [main] INFO logger File - User clicked on sign up button
+2023-02-22 14:12:16,814 [main] INFO logger File - User is logged into account page
+2023-02-22 15:40:46,277 [main] INFO logger File - User is on retail website
+2023-02-22 15:40:46,376 [main] INFO logger File - user clicked on Sign in Option
+2023-02-22 15:40:46,586 [main] INFO logger File - user entered email and password
+2023-02-22 15:40:46,657 [main] INFO logger File - user clicked on login button
+2023-02-22 15:41:15,908 [main] INFO logger File - User is on retail website
+2023-02-22 15:41:16,000 [main] INFO logger File - user clicked on Sign in Option
+2023-02-22 15:41:16,076 [main] INFO logger File - User cliked on Create New Account option
+2023-02-22 15:41:16,435 [main] INFO logger File - User fill up information form
+2023-02-22 15:41:16,508 [main] INFO logger File - User clicked on sign up button
+2023-02-22 15:42:14,609 [main] INFO logger File - User is on retail website
+2023-02-22 15:42:14,704 [main] INFO logger File - user clicked on Sign in Option
+2023-02-22 15:42:14,777 [main] INFO logger File - User cliked on Create New Account option
+2023-02-22 15:42:15,129 [main] INFO logger File - User fill up information form
+2023-02-22 15:42:15,205 [main] INFO logger File - User clicked on sign up button
+2023-02-22 15:42:16,306 [main] INFO logger File - User is logged into account page
+2023-02-24 10:35:50,649 [main] INFO logger File - User is on retail website
+2023-02-24 10:35:50,751 [main] INFO logger File - user clicked on Sign in Option
+2023-02-24 10:35:50,833 [main] INFO logger File - User cliked on Create New Account option
+2023-02-24 10:35:51,200 [main] INFO logger File - User fill up information form
+2023-02-24 10:35:51,269 [main] INFO logger File - User clicked on sign up button
+2023-02-24 10:35:51,555 [main] INFO logger File - User is logged into account page
+2023-02-24 10:38:28,089 [main] INFO logger File - User is on retail website
+2023-02-24 10:38:28,224 [main] INFO logger File - user clicked on Sign in Option
+2023-02-24 10:38:28,314 [main] INFO logger File - User cliked on Create New Account option
+2023-02-24 10:38:28,704 [main] INFO logger File - User fill up information form
+2023-02-24 10:38:28,783 [main] INFO logger File - User clicked on sign up button
+2023-02-24 10:55:03,906 [main] INFO logger File - User is on retail website
+2023-02-24 10:55:04,044 [main] INFO logger File - user clicked on Sign in Option
+2023-02-24 10:55:04,138 [main] INFO logger File - User cliked on Create New Account option
+2023-02-24 10:55:04,497 [main] INFO logger File - User fill up information form
+2023-02-24 10:55:04,564 [main] INFO logger File - User clicked on sign up button
+2023-02-26 20:22:28,781 [main] INFO logger File - User is on retail website
+2023-02-26 20:22:29,001 [main] INFO logger File - User searched for Pokemon item
+2023-02-26 20:22:29,099 [main] INFO logger File - Product is displayed
+2023-02-28 23:02:06,866 [main] INFO logger File - user is on retail website
+2023-02-28 23:02:06,966 [main] INFO logger File - user clicked on Sign in Option
+2023-02-28 23:02:07,041 [main] INFO logger File - User cliked on Create New Account option
+2023-02-28 23:02:07,376 [main] INFO logger File - User fill up information form
+2023-02-28 23:02:07,459 [main] INFO logger File - User clicked on sign up button
+2023-02-28 23:03:22,409 [main] INFO logger File - user is on retail website
+2023-02-28 23:03:22,507 [main] INFO logger File - user clicked on Sign in Option
+2023-02-28 23:03:22,591 [main] INFO logger File - User cliked on Create New Account option
+2023-02-28 23:03:22,937 [main] INFO logger File - User fill up information form
+2023-02-28 23:03:23,006 [main] INFO logger File - User clicked on sign up button
+2023-02-28 23:04:12,808 [main] INFO logger File - user is on retail website
+2023-02-28 23:04:12,939 [main] INFO logger File - user clicked on Sign in Option
+2023-02-28 23:04:13,014 [main] INFO logger File - User cliked on Create New Account option
+2023-02-28 23:04:13,391 [main] INFO logger File - User fill up information form
+2023-02-28 23:04:13,468 [main] INFO logger File - User clicked on sign up button
+2023-02-28 23:04:13,707 [main] INFO logger File - User is logged into account page
