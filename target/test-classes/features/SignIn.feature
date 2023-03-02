@@ -15,6 +15,6 @@ Feature: Retail SignIn feature
     And User clik on Create New Account button
     And User fill the sign up information with bolow data
       | name | email       | password | confirmPassword |
-      | yzd  | yzp@tek.com | XYb@1234 | XYb@1234        |
+      | agzd  | ayzp@tek.com | XYb@1234 | XYb@1234        |
     And User click on SignUp button
     Then User should be logged in into account page
